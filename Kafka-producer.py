@@ -7,15 +7,15 @@ def fetch_data_from_postgresql():
     # Connect to PostgreSQL
     connection = psycopg2.connect(
         host="localhost",
-        database="prism_db",
-        user="tad",
-        password="tad"
+        database="db",
+        user="xxx",
+        password="xxx"
     )
     cursor = connection.cursor()
     print("cursor created ...")
 
     # Fetch data from PostgreSQL
-    cursor.execute("SELECT * FROM m_product LIMIT 1")
+    cursor.execute("SELECT * FROM product LIMIT 1")
     data = cursor.fetchall()
     print("Data featch ...")
 
