@@ -1,5 +1,5 @@
-# pykafka
-## postgres data push into txt file using Apache Kafka 
+# Apache Kafka With Python
+## Postgres data push into txt file using Apache Kafka 
 ![DB TO TXT](https://github.com/amogh9594/pykafka/blob/main/kafka-2.png)
 
 ### Kafka-Producer
