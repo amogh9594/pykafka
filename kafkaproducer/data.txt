@@ -1,0 +1,14 @@
+New Record : 
+Key :key1, Value :FFF20210521111921368A4D9267BC02F 2021-05-21 11:19:21.368, Topic :myTopic, Partition :0, Offset :1
+New Record : 
+Key :key1, Value :910EF3DE619C4A4CB09B2A8ADFFB9ED2 2018-12-07 15:12:09.639, Topic :myTopic, Partition :0, Offset :2
+
+
+New Record : 
+Key :key1, Value :FFF20200708010516324278607FE2E57 2020-07-08 13:05:16.325, Topic :myTopic, Partition :0, Offset :8
+
+
+
+
+New Record : 
+Key :key1, Value :FFF20200708010516324278607FE2E57 2020-07-08 13:05:16.325, Topic :myTopic, Partition :0, Offset :12
