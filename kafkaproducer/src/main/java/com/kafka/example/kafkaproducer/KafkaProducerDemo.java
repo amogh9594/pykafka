@@ -23,9 +23,9 @@ public class KafkaProducerDemo
 
         try {
             // Assuming the user name and password for the database connection
-            String url = "jdbc:postgresql://localhost:5432/prism_db";
-            String user = "tad";
-            String password = "tad";
+            String url = "jdbc:postgresql://localhost:5432/xxxx";
+            String user = "xxxx";
+            String password = "xxxx";
 
             Connection conn = DriverManager.getConnection(url, user, password);
             Statement stmt = conn.createStatement();
