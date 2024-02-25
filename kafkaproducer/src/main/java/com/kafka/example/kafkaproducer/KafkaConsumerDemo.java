@@ -18,7 +18,7 @@ import org.slf4j.LoggerFactory;
 
 public class KafkaConsumerDemo {
     private static final Logger logger = LoggerFactory.getLogger(KafkaConsumerDemo.class);
-    private static final String OUTPUT_FILE = "/home/openbravo/eclipse-workspace/kafkaproducer/data.csv";
+    private static final String OUTPUT_FILE = "/xxxx/xxxx/eclipse-workspace/kafkaproducer/data.csv";
 
     public static void main(String[] args) {
         Properties props = new Properties();
